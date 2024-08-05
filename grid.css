@@ -1,0 +1,28 @@
+/* Grid Layout */
+.grid-container {
+    display: grid;
+    grid-template-columns: 1fr min(1200px, 90%) 1fr;
+    grid-template-areas:
+        "header header header"
+        ". main ."
+        "footer footer footer";
+}
+
+.grid-header {
+    grid-area: header;
+}
+
+.grid-main {
+    grid-area: main;
+}
+
+.grid-footer {
+    grid-area: footer;
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+    .grid-container {
+        grid-template-columns: 1fr min(100%, 90%) 1fr;
+    }
+}

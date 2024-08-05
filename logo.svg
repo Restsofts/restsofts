@@ -1,0 +1,450 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 100 100"
+   width="100"
+   height="100"
+   version="1.1"
+   id="svg21"
+   sodipodi:docname="logo.svg"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview23"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="8.29"
+     inkscape:cx="35.162847"
+     inkscape:cy="59.589867"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg21" />
+  <defs
+     id="defs7">
+    <linearGradient
+       id="grad1"
+       x1="0%"
+       y1="0%"
+       x2="100%"
+       y2="100%">
+      <stop
+         offset="0%"
+         style="stop-color:#0066CC;stop-opacity:1"
+         id="stop2" />
+      <stop
+         offset="100%"
+         style="stop-color:#003366;stop-opacity:1"
+         id="stop4" />
+    </linearGradient>
+  </defs>
+  <path
+     d="M30 35 L70 35 L70 65 L30 65 Z"
+     stroke="white"
+     stroke-width="4"
+     fill="none"
+     id="path11" />
+  <text
+     x="50"
+     y="58"
+     font-family="Arial, sans-serif"
+     font-size="28"
+     font-weight="bold"
+     text-anchor="middle"
+     fill="white"
+     id="text13">RS</text>
+  <circle
+     cx="25"
+     cy="75"
+     r="3"
+     fill="white"
+     id="circle15" />
+  <circle
+     cx="35"
+     cy="75"
+     r="3"
+     fill="white"
+     id="circle17" />
+  <circle
+     cx="45"
+     cy="75"
+     r="3"
+     fill="white"
+     id="circle19" />
+  <g
+     id="g268"
+     transform="matrix(0.56366306,0,0,0.56366306,7.7252702,0.67948215)"
+     style="display:inline">
+    <polygon
+       style="fill:#f1c40f"
+       transform="matrix(0.7358081,0,0,0.73358153,21.122406,-188.72227)"
+       id="polygon62"
+       points="" />
+    <polygon
+       style="fill:#f1c40f"
+       transform="matrix(0.7358081,0,0,0.73358153,21.122406,-188.72227)"
+       id="polygon64"
+       points="" />
+    <g
+       transform="matrix(1,0,0,0.875,-4.5207999e-7,-0.21067953)"
+       id="g1055">
+      <g
+         id="g6"
+         transform="matrix(0.55185608,0,0,0.73358153,-44.121445,-58.334975)">
+        <polygon
+           points="80.51,215.605 148.132,181.883 80.51,148.212 "
+           id="polygon2"
+           style="fill:#2980b9" />
+        <path
+           d="m 80.26,216.01 v -68.201 l 0.361,0.18 68.071,33.894 z m 0.5,-67.394 v 66.585 l 66.811,-33.318 z"
+           id="path4"
+           inkscape:connector-curvature="0"
+           style="fill:#7fb3d5" />
+      </g>
+      <g
+         id="g12"
+         transform="matrix(0.55185608,0,0,0.73358153,-44.121445,-58.334975)">
+        <polygon
+           points="148.547,181.676 148.577,114.179 80.51,148.212 148.132,181.883 "
+           id="polygon8"
+           style="fill:#f1c40f" />
+        <path
+           d="m 148.132,182.162 -0.111,-0.056 -68.07,-33.894 68.876,-34.438 -0.03,68.056 z m -67.062,-33.95 67.062,33.392 0.165,-0.083 0.03,-66.937 z"
+           id="path10"
+           inkscape:connector-curvature="0"
+           style="fill:#f7dc6f" />
+      </g>
+      <g
+         id="g18"
+         transform="matrix(0.55185608,0,0,0.73358153,-44.121445,-58.334975)">
+        <polygon
+           points="80.51,283.559 148.459,249.867 80.51,215.605 "
+           id="polygon14"
+           style="fill:#2980b9" />
+        <path
+           d="m 80.26,283.963 v -68.764 l 0.363,0.183 68.395,34.487 -0.448,0.222 z m 0.5,-67.951 v 67.145 l 67.14,-33.291 z"
+           id="path16"
+           inkscape:connector-curvature="0"
+           style="fill:#7fb3d5" />
+      </g>
+      <g
+         id="g24"
+         transform="matrix(0.55185608,0,0,0.73358153,-44.121445,-58.334975)">
+        <polygon
+           points="216.419,147.829 216.419,80.258 148.577,114.179 215.83,148.123 "
+           id="polygon20"
+           style="fill:#f1c40f" />
+        <path
+           d="m 215.829,148.402 -0.111,-0.057 -67.698,-34.167 68.649,-34.324 v 68.129 z m -66.695,-34.222 66.697,33.663 0.338,-0.169 V 80.663 Z"
+           id="path22"
+           inkscape:connector-curvature="0"
+           style="fill:#f7dc6f" />
+      </g>
+      <g
+         id="g30"
+         transform="matrix(0.55185608,0,0,0.73358153,-44.121445,-58.334975)">
+        <polygon
+           points="216.419,80.258 216.419,147.829 283.242,114.505 "
+           id="polygon26"
+           style="fill:#f1c40f" />
+        <path
+           d="M 216.169,148.232 V 79.849 l 67.626,34.659 z m 0.5,-67.565 v 66.757 l 66.019,-32.923 z"
+           id="path28"
+           inkscape:connector-curvature="0"
+           style="fill:#f7dc6f" />
+      </g>
+      <g
+         id="g36"
+         transform="matrix(0.55185608,0,0,0.73358153,-44.121445,-58.334975)">
+        <polygon
+           points="284.13,182.594 351.204,149.336 283.242,114.505 283.242,182.146 "
+           id="polygon32"
+           style="fill:#f39c12" />
+        <path
+           d="m 284.129,182.874 -1.138,-0.574 v -68.204 l 68.769,35.244 z m -0.638,-0.882 0.64,0.323 66.518,-32.983 -67.157,-34.417 v 67.077 z"
+           id="path34"
+           inkscape:connector-curvature="0"
+           style="fill:#f8c471" />
+      </g>
+      <g
+         id="g42"
+         transform="matrix(0.55185608,0,0,0.73358153,-44.121445,-58.334975)">
+        <polygon
+           points="283.242,250.436 283.242,317.828 351.204,282.998 284.523,249.795 "
+           id="polygon38"
+           style="fill:#27ae60" />
+        <path
+           d="m 282.991,318.237 v -67.955 l 1.531,-0.766 0.111,0.056 67.125,33.423 z m 0.5,-67.646 v 66.828 l 67.158,-34.418 -66.127,-32.926 z"
+           id="path40"
+           inkscape:connector-curvature="0"
+           style="fill:#7dcea0" />
+      </g>
+      <g
+         id="g48"
+         transform="matrix(0.55185608,0,0,0.73358153,-44.121445,-58.334975)">
+        <polygon
+           points="351.204,216.447 284.523,249.795 351.204,282.998 "
+           id="polygon44"
+           style="fill:#27ae60" />
+        <path
+           d="m 351.454,283.401 -0.361,-0.18 -67.13,-33.426 67.491,-33.753 z m -66.372,-33.606 65.872,32.8 v -65.743 z"
+           id="path46"
+           inkscape:connector-curvature="0"
+           style="fill:#7dcea0" />
+      </g>
+      <g
+         id="g54"
+         transform="matrix(0.55185608,0,0,0.73358153,-44.121445,-58.334975)">
+        <polygon
+           points="283.242,317.828 216.419,284.134 216.419,352.075 "
+           id="polygon50"
+           style="fill:#1abc9c" />
+        <path
+           d="m 216.169,352.484 v -68.756 l 67.624,34.098 -0.438,0.225 z m 0.5,-67.943 v 67.125 L 282.69,317.83 Z"
+           id="path52"
+           inkscape:connector-curvature="0"
+           style="fill:#76d7c4" />
+      </g>
+      <g
+         id="g60"
+         transform="matrix(0.55185608,0,0,0.73358153,-44.121445,-58.334975)">
+        <polygon
+           points="351.204,216.447 351.204,149.336 284.13,182.594 "
+           id="polygon56"
+           style="fill:#1abc9c" />
+        <path
+           d="m 351.454,216.854 -0.362,-0.183 -67.521,-34.079 0.447,-0.222 67.436,-33.438 z m -66.766,-34.258 66.266,33.445 v -66.303 z"
+           id="path58"
+           inkscape:connector-curvature="0"
+           style="fill:#76d7c4" />
+      </g>
+      <polygon
+         points="215.83,148.123 216.419,148.42 216.419,147.829 "
+         id="polygon66"
+         transform="matrix(0.55185608,0,0,0.73358153,-44.121445,-58.334975)"
+         style="fill:#f1c40f" />
+      <polygon
+         points="148.547,182.09 148.547,181.676 148.132,181.883 "
+         id="polygon68"
+         transform="matrix(0.55185608,0,0,0.73358153,-44.121445,-58.334975)"
+         style="fill:#f1c40f" />
+      <polygon
+         points="216.419,283.855 216.141,283.994 216.419,284.134 "
+         id="polygon70"
+         transform="matrix(0.55185608,0,0,0.73358153,-44.121445,-58.334975)"
+         style="fill:#f1c40f" />
+      <g
+         id="g76"
+         transform="matrix(0.55185608,0,0,0.73358153,-44.121445,-58.334975)">
+        <polygon
+           points="148.459,249.867 148.517,249.838 148.547,182.09 148.132,181.883 80.51,215.605 "
+           id="polygon72"
+           style="fill:#3498db" />
+        <path
+           d="m 148.459,250.147 -0.113,-0.057 -68.394,-34.486 0.446,-0.223 67.733,-33.778 0.665,0.331 -0.03,68.058 z m -67.391,-34.541 67.199,33.884 0.03,-67.246 -0.165,-0.082 z"
+           id="path74"
+           inkscape:connector-curvature="0"
+           style="fill:#85c1e9" />
+      </g>
+      <g
+         id="g82"
+         transform="matrix(0.55185608,0,0,0.73358153,-44.121445,-58.334975)">
+        <polygon
+           points="283.242,250.436 216.419,283.855 216.419,284.134 283.242,317.828 "
+           id="polygon78"
+           style="fill:#27ae60" />
+        <path
+           d="M 283.491,318.234 216.169,284.289 V 283.7 l 0.138,-0.069 67.185,-33.599 v 68.202 z m -66.794,-34.239 66.294,33.427 v -66.581 z"
+           id="path80"
+           inkscape:connector-curvature="0"
+           style="fill:#7dcea0" />
+      </g>
+      <polygon
+         points="148.517,249.896 148.517,249.838 148.459,249.867 "
+         id="polygon84"
+         transform="matrix(0.55185608,0,0,0.73358153,-44.121445,-58.334975)"
+         style="fill:#f1c40f" />
+      <g
+         id="g90"
+         transform="matrix(0.55185608,0,0,0.73358153,-44.121445,-58.334975)">
+        <polygon
+           points="216.419,147.829 216.419,148.42 283.242,182.146 283.242,114.505 "
+           id="polygon86"
+           style="fill:#f39c12" />
+        <path
+           d="m 283.491,182.552 -0.362,-0.183 -66.96,-33.795 v -0.9 l 0.139,-0.069 67.184,-33.504 v 68.451 z m -66.822,-34.286 66.322,33.474 v -66.831 l -66.322,33.075 z"
+           id="path88"
+           inkscape:connector-curvature="0"
+           style="fill:#f8c471" />
+      </g>
+      <g
+         id="g96"
+         transform="matrix(0.55185608,0,0,0.73358153,-44.121445,-58.334975)">
+        <polygon
+           points="216.141,283.994 148.517,249.896 148.487,317.828 "
+           id="polygon92"
+           style="fill:#3498db" />
+        <path
+           d="m 148.237,318.232 0.03,-68.742 0.363,0.183 68.067,34.322 -0.444,0.223 z m 0.53,-67.929 -0.03,67.121 66.847,-33.431 z"
+           id="path94"
+           inkscape:connector-curvature="0"
+           style="fill:#85c1e9" />
+      </g>
+      <polygon
+         points="283.242,249.157 283.242,250.436 284.523,249.795 "
+         id="polygon98"
+         transform="matrix(0.55185608,0,0,0.73358153,-44.121445,-58.334975)"
+         style="fill:#f1c40f" />
+      <g
+         id="g104"
+         transform="matrix(0.55185608,0,0,0.73358153,-44.121445,-58.334975)">
+        <polygon
+           points="284.13,182.594 283.242,183.035 283.242,249.157 284.523,249.795 351.204,216.447 "
+           id="polygon100"
+           style="fill:#27ae60" />
+        <path
+           d="m 284.522,250.075 -1.531,-0.764 v -66.432 l 1.14,-0.564 67.63,34.133 -0.444,0.223 z m -1.031,-1.072 1.031,0.514 66.125,-33.07 -66.519,-33.573 -0.638,0.316 v 65.813 z"
+           id="path102"
+           inkscape:connector-curvature="0"
+           style="fill:#7dcea0" />
+      </g>
+      <polygon
+         points="284.13,182.594 283.242,182.146 283.242,183.035 "
+         id="polygon106"
+         transform="matrix(0.55185608,0,0,0.73358153,-44.121445,-58.334975)"
+         style="fill:#f1c40f" />
+      <g
+         id="g112"
+         transform="matrix(0.55185608,0,0,0.73358153,-44.121445,-58.334975)">
+        <polygon
+           points="148.577,114.179 148.547,181.676 215.83,148.123 "
+           id="polygon108"
+           style="fill:#f39c12" />
+        <path
+           d="m 148.297,182.08 0.03,-68.307 68.061,34.351 -0.446,0.222 z m 0.53,-67.495 -0.03,66.686 66.476,-33.15 z"
+           id="path110"
+           inkscape:connector-curvature="0"
+           style="fill:#f8c471" />
+      </g>
+      <g
+         id="g118"
+         transform="matrix(0.55185608,0,0,0.73358153,-44.121445,-58.334975)">
+        <polygon
+           points="283.242,182.146 216.419,148.42 216.419,215.885 216.705,216.027 283.242,183.035 "
+           id="polygon114"
+           style="fill:#8e44ad" />
+        <path
+           d="m 216.705,216.307 -0.536,-0.268 v -68.025 l 0.362,0.183 66.96,33.795 v 1.198 l -0.139,0.069 z m -0.036,-0.577 0.036,0.018 66.286,-32.869 v -0.58 l -66.322,-33.474 z"
+           id="path116"
+           inkscape:connector-curvature="0"
+           style="fill:#bb8fce" />
+      </g>
+      <g
+         id="g124"
+         transform="matrix(0.55185608,0,0,0.73358153,-44.121445,-58.334975)">
+        <polygon
+           points="283.242,183.035 216.705,216.027 283.242,249.157 "
+           id="polygon120"
+           style="fill:#8e44ad" />
+        <path
+           d="m 283.491,249.561 -0.361,-0.18 -66.986,-33.354 0.45,-0.224 66.897,-33.172 z m -66.224,-33.534 65.725,32.727 v -65.316 z"
+           id="path122"
+           inkscape:connector-curvature="0"
+           style="fill:#bb8fce" />
+      </g>
+      <g
+         id="g130"
+         transform="matrix(0.55185608,0,0,0.73358153,-44.121445,-58.334975)">
+        <polygon
+           points="216.419,215.885 216.419,148.42 215.83,148.123 148.547,181.676 148.547,182.09 "
+           id="polygon126"
+           style="fill:#8e44ad" />
+        <path
+           d="m 216.669,216.288 -0.361,-0.18 -68.011,-33.864 v -0.723 l 67.534,-33.678 0.838,0.423 z m -67.872,-34.353 67.372,33.547 v -66.908 l -0.34,-0.171 -67.032,33.428 z"
+           id="path128"
+           inkscape:connector-curvature="0"
+           style="fill:#bb8fce" />
+      </g>
+      <polygon
+         points="216.419,215.885 216.419,216.169 216.705,216.027 "
+         id="polygon132"
+         transform="matrix(0.55185608,0,0,0.73358153,-44.121445,-58.334975)"
+         style="fill:#f1c40f" />
+      <g
+         id="g138"
+         transform="matrix(0.55185608,0,0,0.73358153,-44.121445,-58.334975)">
+        <polygon
+           points="216.705,216.027 216.419,216.169 216.419,283.855 283.242,250.436 283.242,249.157 "
+           id="polygon134"
+           style="fill:#8e44ad" />
+        <path
+           d="m 216.169,284.259 v -68.245 l 0.536,-0.266 0.111,0.056 66.675,33.198 v 1.589 l -0.138,0.069 z m 0.5,-67.935 v 67.126 l 66.322,-33.168 v -0.97 l -66.286,-33.006 z"
+           id="path136"
+           inkscape:connector-curvature="0"
+           style="fill:#bb8fce" />
+      </g>
+      <g
+         id="g144"
+         transform="matrix(0.55185608,0,0,0.73358153,-44.121445,-58.334975)">
+        <polygon
+           points="216.419,215.885 148.547,182.09 148.517,249.838 216.419,216.169 "
+           id="polygon140"
+           style="fill:#9b59b6" />
+        <path
+           d="m 148.267,250.241 0.03,-68.556 0.361,0.18 68.011,33.864 v 0.595 l -0.139,0.068 z m 0.53,-67.748 -0.03,66.941 67.376,-33.408 z"
+           id="path142"
+           inkscape:connector-curvature="0"
+           style="fill:#c39bd3" />
+      </g>
+      <g
+         id="g150"
+         transform="matrix(0.55185608,0,0,0.73358153,-44.121445,-58.334975)">
+        <polygon
+           points="216.419,216.169 148.517,249.838 148.517,249.896 216.141,283.994 216.419,283.855 "
+           id="polygon146"
+           style="fill:#9b59b6" />
+        <path
+           d="M 216.141,284.274 148.267,250.05 v -0.31 l 0.139,-0.127 68.263,-33.849 v 68.243 z m -67.123,-34.405 67.123,33.845 0.028,-0.014 v -67.128 z"
+           id="path148"
+           inkscape:connector-curvature="0"
+           style="fill:#c39bd3" />
+      </g>
+      <g
+         id="g156"
+         transform="matrix(0.55185608,0,0,0.73358153,-44.121445,-58.334975)">
+        <polygon
+           points="148.48,317.825 216.419,352.075 216.419,284.134 216.141,283.994 148.487,317.828 148.487,317.817 "
+           id="polygon152"
+           style="fill:#3498db" />
+        <path
+           d="m 216.669,352.481 -68.183,-34.373 -0.25,0.124 v -0.25 l -0.131,-0.066 0.625,-0.864 0.003,0.373 67.408,-33.711 0.527,0.268 v 68.499 z m -67.626,-34.652 67.125,33.84 v -67.381 l -0.029,-0.014 z"
+           id="path154"
+           inkscape:connector-curvature="0"
+           style="fill:#85c1e9" />
+      </g>
+      <g
+         id="g162"
+         transform="matrix(0.55185608,0,0,0.73358153,-44.121445,-58.334975)">
+        <polygon
+           points="148.487,317.817 148.517,249.896 148.459,249.867 80.51,283.559 148.48,317.825 "
+           id="polygon158"
+           style="fill:#2980b9" />
+        <path
+           d="m 148.565,318.136 -0.197,-0.087 -68.417,-34.491 0.448,-0.222 68.061,-33.748 0.307,0.154 -0.03,68.155 z m -67.496,-34.574 67.167,33.861 0.03,-67.182 z"
+           id="path160"
+           inkscape:connector-curvature="0"
+           style="fill:#7fb3d5" />
+      </g>
+    </g>
+  </g>
+</svg>

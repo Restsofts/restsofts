@@ -1,0 +1,244 @@
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+/* Custom styles for RestSofts */
+:root {
+    --primary-blue: #0066CC;
+    --secondary-blue: #003366;
+    --neutral-gray: #F0F0F0;
+    --dark-charcoal: #333333;
+    --light-gray: #F5F5F5;
+    --white: #FFFFFF;
+}
+
+body {
+    font-family: 'Open Sans', sans-serif;
+    color: var(--dark-charcoal);
+    font-size: 16px;
+    line-height: 1.5;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Montserrat', sans-serif;
+    line-height: 1.2;
+}
+
+/* Hero section styles */
+.hero {
+    background-image: linear-gradient(135deg, var(--white), var(--light-gray));
+    min-height: 80vh;
+    display: flex;
+    align-items: center;
+}
+
+.hero h1 {
+    font-size: 3.5rem;
+    font-weight: 700;
+    margin-bottom: 1rem;
+}
+
+.hero p {
+    font-size: 1.25rem;
+    margin-bottom: 2rem;
+}
+
+/* Navigation styles */
+header {
+    transition: all 0.3s ease;
+}
+
+header.scrolled {
+    background-color: rgba(255, 255, 255, 0.9);
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+.nav-link {
+    position: relative;
+    transition: color 0.3s ease;
+}
+
+.nav-link::after {
+    content: '';
+    position: absolute;
+    width: 0;
+    height: 2px;
+    bottom: -4px;
+    left: 0;
+    background-color: var(--primary-blue);
+    transition: width 0.3s ease;
+}
+
+.nav-link:hover::after {
+    width: 100%;
+}
+
+/* Button styles */
+.btn {
+    transition: all 0.3s ease;
+}
+
+.btn:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+}
+
+/* Responsive styles */
+@media (max-width: 768px) {
+    .hero h1 {
+        font-size: 2.5rem;
+    }
+
+    .hero p {
+        font-size: 1rem;
+    }
+}
+
+/* Animation keyframes */
+@keyframes fadeInUp {
+    from {
+        opacity: 0;
+        transform: translateY(20px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+.animate-fade-in-up {
+    animation: fadeInUp 0.5s ease-out;
+}
+
+/* About section specific styles */
+#about {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+#about .container {
+    max-width: 1200px;
+}
+
+#about h2 {
+    position: relative;
+    display: inline-block;
+}
+
+#about h2::after {
+    content: '';
+    position: absolute;
+    bottom: -10px;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 50px;
+    height: 3px;
+    background-color: var(--primary-blue);
+}
+
+#about .grid > div {
+    transition: all 0.3s ease;
+}
+
+#about .grid > div:hover {
+    transform: translateY(-10px);
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
+}
+
+#about .text-blue-400 svg {
+    filter: drop-shadow(0 0 10px rgba(0, 102, 204, 0.5));
+}
+
+/* Contact section specific styles */
+#contact {
+    background-color: var(--light-gray);
+}
+
+#contact h2 {
+    background: linear-gradient(to right, var(--secondary-blue), var(--primary-blue));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+#contact img {
+    max-width: 100%;
+    height: auto;
+    filter: drop-shadow(0 10px 8px rgb(0 0 0 / 0.04)) drop-shadow(0 4px 3px rgb(0 0 0 / 0.1));
+}
+
+#contact form {
+    transition: all 0.3s ease;
+}
+
+#contact input,
+#contact textarea {
+    transition: all 0.3s ease;
+}
+
+#contact input:focus,
+#contact textarea:focus {
+    transform: translateY(-2px);
+    box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+}
+
+#contact button {
+    transition: all 0.3s ease;
+    background: linear-gradient(to right, var(--secondary-blue), var(--primary-blue));
+}
+
+#contact button:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+    background: linear-gradient(to right, var(--secondary-blue), var(--primary-blue));
+}
+@keyframes fadeInLeft {
+    from {
+        opacity: 0;
+        transform: translateX(-20px);
+    }
+    to {
+        opacity: 1;
+        transform: translateX(0);
+    }
+}
+
+@keyframes fadeInRight {
+    from {
+        opacity: 0;
+        transform: translateX(20px);
+    }
+    to {
+        opacity: 1;
+        transform: translateX(0);
+    }
+}
+
+@keyframes fadeInUp {
+    from {
+        opacity: 0;
+        transform: translateY(20px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+.animate-fade-in {
+    animation-duration: 1s;
+    animation-fill-mode: both;
+}
+
+.animate-fade-in[data-animation="fadeInLeft"] {
+    animation-name: fadeInLeft;
+}
+
+.animate-fade-in[data-animation="fadeInRight"] {
+    animation-name: fadeInRight;
+}
+
+.animate-fade-in[data-animation="fadeInUp"] {
+    animation-name: fadeInUp;
+}
